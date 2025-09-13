@@ -19,6 +19,7 @@ public class DeclareVariables {
         System.out.println(A);
         System.out.println(isTrue);
 
+
 //        age = 213;
 //        salary = 762213;
 //        number = 4564545444;
