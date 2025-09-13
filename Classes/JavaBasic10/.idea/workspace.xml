@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="task done">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Variables">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
   "keyToString": {
     "Application.JavaProgrammer.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PrimitiveDataTypes.executor": "Run",
     "Application.PrintLine.executor": "Run",
     "Application.Variables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -58,7 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Variables">
+  <component name="RunManager" selected="Application.PrimitiveDataTypes">
     <configuration name="JavaProgrammer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson02.JavaProgrammer" />
       <module name="JavaBasic10" />
@@ -75,6 +76,19 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson01.Main" />
       <module name="JavaBasic10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimitiveDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson02.PrimitiveDataTypes" />
+      <module name="JavaBasic10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitiveDataTypes" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.JavaProgrammer" />
         <item itemvalue="Application.PrintLine" />
@@ -123,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757465221036</updated>
       <workItem from="1757465222098" duration="1250000" />
-      <workItem from="1757775455573" duration="9397000" />
+      <workItem from="1757775455573" duration="12004000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -157,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757783151460</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Variables">
+      <option name="closed" value="true" />
+      <created>1757788214776</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757788214776</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +202,7 @@
     <MESSAGE value="Helloworld" />
     <MESSAGE value="Println print and \\n" />
     <MESSAGE value="task done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task done" />
+    <MESSAGE value="Variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables" />
   </component>
 </project>
