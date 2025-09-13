@@ -1,6 +1,6 @@
 package lesson02;
 
-public class VariableDecleration {
+public class VariableDeclaration {
     public static void main(String[] args) {
 
 
