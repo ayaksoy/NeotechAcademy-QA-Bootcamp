@@ -9,7 +9,7 @@ public class Task1 {
         String state = "Turkiye";
 
         System.out.println("My name is " + name + " and my lastname is " + lasName +
-                ". I live in city of " + city + ", state of " + state +
-                ". My grade is: " + grade);
+                ".\nI live in city of " + city + ", state of " + state +
+                ".\nMy grade is: " + grade);
     }
 }

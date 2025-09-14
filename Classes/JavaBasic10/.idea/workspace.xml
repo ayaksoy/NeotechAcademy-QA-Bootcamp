@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="End of string examples" />
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Task1 done">
+      <change beforePath="$PROJECT_DIR$/src/lesson03/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson03/Task1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +45,7 @@
     "Application.StringConcatenation.executor": "Run",
     "Application.StringExample.executor": "Run",
     "Application.Strings.executor": "Run",
+    "Application.Task1.executor": "Run",
     "Application.Variables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -146,7 +149,7 @@
       <updated>1757465221036</updated>
       <workItem from="1757465222098" duration="1250000" />
       <workItem from="1757775455573" duration="12416000" />
-      <workItem from="1757862327802" duration="4319000" />
+      <workItem from="1757862327802" duration="5171000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -220,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757868596066</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Task1 done">
+      <option name="closed" value="true" />
+      <created>1757869066766</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757869066766</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +258,7 @@
     <MESSAGE value="Variable declerations" />
     <MESSAGE value="Starting to string" />
     <MESSAGE value="End of string examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="End of string examples" />
+    <MESSAGE value="Task1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task1 done" />
   </component>
 </project>
