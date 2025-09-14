@@ -5,8 +5,11 @@ public class StringExample {
 
         String str = "ahmet";
         String str2 = "memed";
-        System.out.println(str);
         str = str2;
+
+        str = "asd";
+        System.out.println(str);
+
         System.out.println(str);
 
     }
