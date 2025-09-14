@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Variable declerations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson02/VariableDecleration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson02/VariableDeclaration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
     "Application.Main.executor": "Run",
     "Application.PrimitiveDataTypes.executor": "Run",
     "Application.PrintLine.executor": "Run",
+    "Application.Strings.executor": "Run",
     "Application.Variables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -60,7 +60,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrimitiveDataTypes">
+  <component name="RunManager" selected="Application.Strings">
     <configuration name="JavaProgrammer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson02.JavaProgrammer" />
       <module name="JavaBasic10" />
@@ -70,13 +70,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson01.Main" />
-      <module name="JavaBasic10" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson03.Strings" />
+      <module name="JavaBasic10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson02.Variables" />
       <module name="JavaBasic10" />
@@ -122,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strings" />
         <item itemvalue="Application.PrimitiveDataTypes" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.JavaProgrammer" />
         <item itemvalue="Application.PrintLine" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +146,7 @@
       <updated>1757465221036</updated>
       <workItem from="1757465222098" duration="1250000" />
       <workItem from="1757775455573" duration="12416000" />
+      <workItem from="1757862327802" duration="1654000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
