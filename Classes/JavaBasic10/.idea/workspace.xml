@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Starting to string">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson03/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson03/StringExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="End of string examples" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,20 +60,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringConcatenation">
-    <configuration name="JavaProgrammer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson02.JavaProgrammer" />
-      <module name="JavaBasic10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="PrimitiveDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson02.PrimitiveDataTypes" />
       <module name="JavaBasic10" />
@@ -116,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson03.Task1" />
+      <module name="JavaBasic10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson02.Variables" />
       <module name="JavaBasic10" />
@@ -131,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.StringConcatenation" />
         <item itemvalue="Application.StringExample" />
         <item itemvalue="Application.PrimitiveDataTypes" />
         <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.JavaProgrammer" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +146,7 @@
       <updated>1757465221036</updated>
       <workItem from="1757465222098" duration="1250000" />
       <workItem from="1757775455573" duration="12416000" />
-      <workItem from="1757862327802" duration="3609000" />
+      <workItem from="1757862327802" duration="4319000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -215,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757866832175</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="End of string examples">
+      <option name="closed" value="true" />
+      <created>1757868596066</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757868596066</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +246,7 @@
     <MESSAGE value="Primitive data types" />
     <MESSAGE value="Variable declerations" />
     <MESSAGE value="Starting to string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting to string" />
+    <MESSAGE value="End of string examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of string examples" />
   </component>
 </project>
