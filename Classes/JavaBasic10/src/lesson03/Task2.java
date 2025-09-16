@@ -7,5 +7,7 @@ public class Task2 {
         System.out.println("The perimeter of a rectangle with width " + width +
                 "\nand height " + height + " is equal to " + 2 * (width + height) +
                 "\nand the area is " + width * height);
+
+        System.out.println("hello world");
     }
 }
