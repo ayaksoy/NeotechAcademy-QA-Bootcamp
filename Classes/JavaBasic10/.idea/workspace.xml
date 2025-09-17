@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="some fixes" />
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="modulus operator">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +48,7 @@
     "Application.OperationsOrder.executor": "Run",
     "Application.PrimitiveDataTypes.executor": "Run",
     "Application.PrintLine.executor": "Run",
+    "Application.Recap.executor": "Run",
     "Application.StringConcatenation.executor": "Run",
     "Application.StringExample.executor": "Run",
     "Application.Strings.executor": "Run",
@@ -69,7 +72,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ModulusOperator">
+  <component name="RunManager" selected="Application.Recap">
     <configuration name="ArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson03.ArithmeticOperators" />
       <module name="JavaBasic10" />
@@ -109,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson03.Task1" />
+    <configuration name="Recap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson04.Recap" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson03.*" />
+          <option name="PATTERN" value="lesson04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recap" />
         <item itemvalue="Application.ModulusOperator" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.OperationsOrder" />
         <item itemvalue="Application.ArithmeticOperators" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +160,7 @@
       <workItem from="1757775455573" duration="12416000" />
       <workItem from="1757862327802" duration="8534000" />
       <workItem from="1758054135717" duration="433000" />
-      <workItem from="1758054834622" duration="2682000" />
+      <workItem from="1758054834622" duration="4100000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -279,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758055734982</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="modulus operator">
+      <option name="closed" value="true" />
+      <created>1758065206273</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1758065206273</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +323,7 @@
     <MESSAGE value="Operations Orders" />
     <MESSAGE value="Task2 done" />
     <MESSAGE value="some fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="some fixes" />
+    <MESSAGE value="modulus operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="modulus operator" />
   </component>
 </project>
