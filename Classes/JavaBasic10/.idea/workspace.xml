@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="relationalOperators" />
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="If statement" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +42,7 @@
     "Application.ArithmeticOperators.executor": "Run",
     "Application.CompoundOperator.executor": "Debug",
     "Application.IfCondition.executor": "Run",
+    "Application.IfElse.executor": "Run",
     "Application.JavaProgrammer.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ModulusOperator.executor": "Run",
@@ -74,9 +75,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IfCondition">
-    <configuration name="CompoundOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson04.CompoundOperator" />
+  <component name="RunManager" selected="Application.IfElse">
+    <configuration name="IfCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson04.IfCondition" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson04.IfCondition" />
+    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson04.IfElse" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfElse" />
         <item itemvalue="Application.IfCondition" />
         <item itemvalue="Application.relationalOperators" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.PrimitiveCasting" />
-        <item itemvalue="Application.CompoundOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +163,7 @@
       <workItem from="1757775455573" duration="12416000" />
       <workItem from="1757862327802" duration="8534000" />
       <workItem from="1758054135717" duration="433000" />
-      <workItem from="1758054834622" duration="10028000" />
+      <workItem from="1758054834622" duration="11082000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -332,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758072640772</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="If statement">
+      <option name="closed" value="true" />
+      <created>1758073572608</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1758073572608</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,6 +380,7 @@
     <MESSAGE value="PrimitiveCasting" />
     <MESSAGE value="Task1 is complete" />
     <MESSAGE value="relationalOperators" />
-    <option name="LAST_COMMIT_MESSAGE" value="relationalOperators" />
+    <MESSAGE value="If statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="If statement" />
   </component>
 </project>
