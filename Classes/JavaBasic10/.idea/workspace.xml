@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Recap" />
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="CompoundOperator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,11 +40,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArithmeticOperators.executor": "Run",
-    "Application.CompoundOperator.executor": "Run",
+    "Application.CompoundOperator.executor": "Debug",
     "Application.JavaProgrammer.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ModulusOperator.executor": "Run",
     "Application.OperationsOrder.executor": "Run",
+    "Application.PrimitiveCasting.executor": "Run",
     "Application.PrimitiveDataTypes.executor": "Run",
     "Application.PrintLine.executor": "Run",
     "Application.Recap.executor": "Run",
@@ -71,7 +72,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CompoundOperator">
+  <component name="RunManager" selected="Application.PrimitiveCasting">
     <configuration name="CompoundOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson04.CompoundOperator" />
       <module name="JavaBasic10" />
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationsOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson03.OperationsOrder" />
+    <configuration name="PrimitiveCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson04.PrimitiveCasting" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson03.*" />
+          <option name="PATTERN" value="lesson04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitiveCasting" />
         <item itemvalue="Application.CompoundOperator" />
         <item itemvalue="Application.Recap" />
         <item itemvalue="Application.ModulusOperator" />
         <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.OperationsOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +160,7 @@
       <workItem from="1757775455573" duration="12416000" />
       <workItem from="1757862327802" duration="8534000" />
       <workItem from="1758054135717" duration="433000" />
-      <workItem from="1758054834622" duration="5265000" />
+      <workItem from="1758054834622" duration="7102000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -297,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758068151399</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="CompoundOperator">
+      <option name="closed" value="true" />
+      <created>1758069202275</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1758069202275</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,6 +341,7 @@
     <MESSAGE value="some fixes" />
     <MESSAGE value="modulus operator" />
     <MESSAGE value="Recap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recap" />
+    <MESSAGE value="CompoundOperator" />
+    <option name="LAST_COMMIT_MESSAGE" value="CompoundOperator" />
   </component>
 </project>
