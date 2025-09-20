@@ -1,11 +1,11 @@
-package Homework;
+package Homework.Lesson03;
 
-public class Lesson3Homework2 {
+public class Lesson03Homework2 {
     public static void main(String[] args) {
 //      Write a java program that converts mile to km and km to miles.
 //      Use scale 1 mile = 1.609344.
 
-        
+
         double mile = 132;
         double km = mile * 1.609344;
 

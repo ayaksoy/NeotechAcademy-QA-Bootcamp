@@ -1,6 +1,6 @@
-package Homework;
+package Homework.Lesson05;
 
-public class Lesson5Homework1 {
+public class Lesson05Homework1 {
     public static void main(String[] args) {
 
         boolean allergies = true;

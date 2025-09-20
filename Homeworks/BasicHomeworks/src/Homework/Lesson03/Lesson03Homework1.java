@@ -1,6 +1,6 @@
-package Homework;
+package Homework.Lesson03;
 
-public class Lesson3Homework1 {
+public class Lesson03Homework1 {
     public static void main(String[] args) {
 
 //      1. Write a java program to display the area and perimeter

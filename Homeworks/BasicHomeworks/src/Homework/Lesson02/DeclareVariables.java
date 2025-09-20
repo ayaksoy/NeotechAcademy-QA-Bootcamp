@@ -1,4 +1,4 @@
-package Homework;
+package Homework.Lesson02;
 
 public class DeclareVariables {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class DeclareVariables {
         long longNumber = 21322899496L;
         float decimalNumber = 5124.4326F;
         double biggerDecimalNumber = 733.3123124;
-        char A= 'A';
+        char A = 'A';
         boolean isTrue = false;
         System.out.println(age);
         System.out.println(salary);

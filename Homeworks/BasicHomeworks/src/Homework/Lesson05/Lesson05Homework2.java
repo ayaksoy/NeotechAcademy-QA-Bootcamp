@@ -1,6 +1,6 @@
-package Homework;
+package Homework.Lesson05;
 
-public class Lesson5Homework2 {
+public class Lesson05Homework2 {
     public static void main(String[] args) {
         boolean isAM = false;
         byte hour = 3;

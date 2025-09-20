@@ -1,4 +1,4 @@
-package Homework;
+package Homework.Lesson04;
 
 public class TemperatureCheck {
     public static void main(String[] args) {
