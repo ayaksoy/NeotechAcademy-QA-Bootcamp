@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Logical And operator" />
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Logical NOT operator">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,51 +51,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArithmeticOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompoundOperator.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ElseIfCondition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfCondition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaProgrammer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ModulusOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedElseIF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedIf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperationsOrder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimitiveCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimitiveDataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintLine.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringConcatenation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.relationalOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArithmeticOperators.executor": "Run",
+    "Application.CompoundOperator.executor": "Debug",
+    "Application.ElseIfCondition.executor": "Run",
+    "Application.IfCondition.executor": "Run",
+    "Application.IfElse.executor": "Run",
+    "Application.JavaProgrammer.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ModulusOperator.executor": "Run",
+    "Application.NestedElseIF.executor": "Run",
+    "Application.NestedIf.executor": "Run",
+    "Application.OperationsOrder.executor": "Run",
+    "Application.PrimitiveCasting.executor": "Run",
+    "Application.PrimitiveDataTypes.executor": "Run",
+    "Application.PrintLine.executor": "Run",
+    "Application.Recap.executor": "Run",
+    "Application.ScannerDemo.executor": "Run",
+    "Application.StringConcatenation.executor": "Run",
+    "Application.StringExample.executor": "Run",
+    "Application.Strings.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Variables.executor": "Run",
+    "Application.relationalOperators.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.NestedElseIF">
+}]]></component>
+  <component name="RunManager" selected="Application.ScannerDemo">
     <configuration name="ElseIfCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson05.ElseIfCondition" />
       <module name="JavaBasic10" />
@@ -133,6 +136,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson06.ScannerDemo" />
+      <module name="JavaBasic10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson05.Task1" />
       <module name="JavaBasic10" />
@@ -146,26 +162,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson04.test" />
-      <module name="JavaBasic10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScannerDemo" />
         <item itemvalue="Application.NestedElseIF" />
         <item itemvalue="Application.NestedIf" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.ElseIfCondition" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +199,7 @@
       <workItem from="1758243666312" duration="442000" />
       <workItem from="1758244323978" duration="2749000" />
       <workItem from="1758380887825" duration="622000" />
-      <workItem from="1758385375372" duration="2252000" />
+      <workItem from="1758385375372" duration="5001000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -422,7 +425,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758386847803</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Logical Or operator">
+      <option name="closed" value="true" />
+      <created>1758388393960</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1758388393960</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Logical NOT operator">
+      <option name="closed" value="true" />
+      <created>1758388445480</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1758388445480</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,8 +459,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task done" />
-    <MESSAGE value="Variables" />
     <MESSAGE value="Primitive data types" />
     <MESSAGE value="Variable declerations" />
     <MESSAGE value="Starting to string" />
@@ -465,6 +482,8 @@
     <MESSAGE value="Nested if" />
     <MESSAGE value="Nested else if" />
     <MESSAGE value="Logical And operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logical And operator" />
+    <MESSAGE value="Logical Or operator" />
+    <MESSAGE value="Logical NOT operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logical NOT operator" />
   </component>
 </project>
