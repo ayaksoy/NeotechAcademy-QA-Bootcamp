@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Tasks">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Recap" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +199,7 @@
       <workItem from="1758244323978" duration="2749000" />
       <workItem from="1758380887825" duration="622000" />
       <workItem from="1758385375372" duration="7583000" />
-      <workItem from="1758668823554" duration="1125000" />
+      <workItem from="1758668823554" duration="1207000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -467,7 +465,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758398902390</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Recap">
+      <option name="closed" value="true" />
+      <created>1758673834402</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1758673834402</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Recap">
+      <option name="closed" value="true" />
+      <created>1758673850218</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1758673850218</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,7 +507,6 @@
     <MESSAGE value="Task2 done" />
     <MESSAGE value="some fixes" />
     <MESSAGE value="modulus operator" />
-    <MESSAGE value="Recap" />
     <MESSAGE value="CompoundOperator" />
     <MESSAGE value="PrimitiveCasting" />
     <MESSAGE value="Task1 is complete" />
@@ -510,6 +523,7 @@
     <MESSAGE value="Scanner" />
     <MESSAGE value="NextLineDemo" />
     <MESSAGE value="Tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks" />
+    <MESSAGE value="Recap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recap" />
   </component>
 </project>
