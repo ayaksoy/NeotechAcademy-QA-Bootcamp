@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Logical NOT operator">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Application.PrimitiveDataTypes.executor": "Run",
     "Application.PrintLine.executor": "Run",
     "Application.Recap.executor": "Run",
+    "Application.RecapScanner.executor": "Run",
     "Application.ScannerDemo.executor": "Run",
     "Application.StringConcatenation.executor": "Run",
     "Application.StringExample.executor": "Run",
@@ -96,20 +97,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ScannerDemo">
-    <configuration name="ElseIfCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson05.ElseIfCondition" />
-      <module name="JavaBasic10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RecapScanner">
     <configuration name="NestedElseIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson05.NestedElseIF" />
       <module name="JavaBasic10" />
@@ -129,6 +117,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecapScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson07.RecapScanner" />
+      <module name="JavaBasic10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +165,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecapScanner" />
         <item itemvalue="Application.ScannerDemo" />
         <item itemvalue="Application.NestedElseIF" />
         <item itemvalue="Application.NestedIf" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.ElseIfCondition" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
       </set>
     </attachedChunks>
   </component>
@@ -199,7 +200,8 @@
       <workItem from="1758243666312" duration="442000" />
       <workItem from="1758244323978" duration="2749000" />
       <workItem from="1758380887825" duration="622000" />
-      <workItem from="1758385375372" duration="5001000" />
+      <workItem from="1758385375372" duration="7583000" />
+      <workItem from="1758668823554" duration="1125000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -441,7 +443,31 @@
       <option name="project" value="LOCAL" />
       <updated>1758388445480</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Scanner">
+      <option name="closed" value="true" />
+      <created>1758398681189</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1758398681189</updated>
+    </task>
+    <task id="LOCAL-00032" summary="NextLineDemo">
+      <option name="closed" value="true" />
+      <created>1758398776275</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1758398776275</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Tasks">
+      <option name="closed" value="true" />
+      <created>1758398902390</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1758398902390</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,9 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Primitive data types" />
-    <MESSAGE value="Variable declerations" />
-    <MESSAGE value="Starting to string" />
     <MESSAGE value="End of string examples" />
     <MESSAGE value="Task1 done" />
     <MESSAGE value="some changes" />
@@ -484,6 +507,9 @@
     <MESSAGE value="Logical And operator" />
     <MESSAGE value="Logical Or operator" />
     <MESSAGE value="Logical NOT operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logical NOT operator" />
+    <MESSAGE value="Scanner" />
+    <MESSAGE value="NextLineDemo" />
+    <MESSAGE value="Tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks" />
   </component>
 </project>
