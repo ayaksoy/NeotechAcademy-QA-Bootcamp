@@ -15,6 +15,10 @@ public class Task {
             number = input.nextInt();
             if (number == -1)
                 break;
+            if (number < 0) {
+                System.out.println("just positive numbers");
+                continue;
+            }
             total += number;
             number = 0;
         }
