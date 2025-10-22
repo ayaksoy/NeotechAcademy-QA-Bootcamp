@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="hw">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="bugfixes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10/Hw4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson10/Hw4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +55,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArithmeticOperators.executor": "Run",
+    "Application.CarShop.executor": "Run",
     "Application.CompoundOperator.executor": "Debug",
     "Application.ElseIfCondition.executor": "Run",
     "Application.HalosRequest.executor": "Run",
     "Application.Hw4.executor": "Run",
     "Application.IfCondition.executor": "Run",
     "Application.IfElse.executor": "Run",
+    "Application.InstanceVariableDemo.executor": "Run",
     "Application.IntroToArray.executor": "Run",
     "Application.JavaProgrammer.executor": "Run",
+    "Application.LocalVariables.executor": "Run",
     "Application.Loops.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ModulusOperator.executor": "Run",
@@ -76,6 +79,7 @@
     "Application.RecapScanner.executor": "Run",
     "Application.ScannerAndSwitch.executor": "Run",
     "Application.ScannerDemo.executor": "Run",
+    "Application.School.executor": "Run",
     "Application.StringConcatenation.executor": "Run",
     "Application.StringExample.executor": "Run",
     "Application.Strings.executor": "Run",
@@ -106,13 +110,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Temp">
-    <configuration name="Hw4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson10.Hw4" />
+  <component name="RunManager" selected="Application.InstanceVariableDemo">
+    <configuration name="CarShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson14.CarShop" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson10.*" />
+          <option name="PATTERN" value="lesson14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntroToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson11.IntroToArray" />
+    <configuration name="InstanceVariableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson18.InstanceVariableDemo" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson11.*" />
+          <option name="PATTERN" value="Lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson09.Task" />
+    <configuration name="LocalVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson18.LocalVariables" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson09.*" />
+          <option name="PATTERN" value="Lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson09.Task2" />
+    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson14.School" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson09.*" />
+          <option name="PATTERN" value="lesson14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,19 +172,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InstanceVariableDemo" />
+        <item itemvalue="Application.LocalVariables" />
         <item itemvalue="Application.Temp" />
-        <item itemvalue="Application.IntroToArray" />
-        <item itemvalue="Application.Hw4" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.School" />
+        <item itemvalue="Application.CarShop" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
       </set>
     </attachedChunks>
   </component>
@@ -206,7 +210,15 @@
       <workItem from="1758385375372" duration="7583000" />
       <workItem from="1758668823554" duration="1207000" />
       <workItem from="1758675979510" duration="50371000" />
-      <workItem from="1760040329591" duration="3874000" />
+      <workItem from="1760040329591" duration="16025000" />
+      <workItem from="1760200057975" duration="249000" />
+      <workItem from="1760200317721" duration="13477000" />
+      <workItem from="1760385315625" duration="1207000" />
+      <workItem from="1760396399038" duration="988000" />
+      <workItem from="1760482938612" duration="2619000" />
+      <workItem from="1760501429947" duration="8912000" />
+      <workItem from="1760579727759" duration="33274000" />
+      <workItem from="1761091244128" duration="2540000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -552,7 +564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759450120328</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="bugfixes">
+      <option name="closed" value="true" />
+      <created>1760052141393</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1760052141393</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +592,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="modulus operator" />
     <MESSAGE value="CompoundOperator" />
     <MESSAGE value="PrimitiveCasting" />
     <MESSAGE value="Task1 is complete" />
@@ -597,6 +616,7 @@
     <MESSAGE value="Loops" />
     <MESSAGE value="Loops task" />
     <MESSAGE value="hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw" />
+    <MESSAGE value="bugfixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="bugfixes" />
   </component>
 </project>
