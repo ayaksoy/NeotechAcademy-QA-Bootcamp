@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Long time no see">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson18/InstanceVariableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson18/InstanceVariableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson18/InstanceVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson18/InstanceVariables.java" afterDir="false" />
-    </list>
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="lesson18" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +215,7 @@
       <workItem from="1760482938612" duration="2619000" />
       <workItem from="1760501429947" duration="8912000" />
       <workItem from="1760579727759" duration="33274000" />
-      <workItem from="1761091244128" duration="5237000" />
+      <workItem from="1761091244128" duration="5254000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
@@ -581,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761093843733</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="lesson18">
+      <option name="closed" value="true" />
+      <created>1761105687416</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1761105687416</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +605,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="PrimitiveCasting" />
     <MESSAGE value="Task1 is complete" />
     <MESSAGE value="relationalOperators" />
     <MESSAGE value="If statement" />
@@ -626,6 +629,7 @@
     <MESSAGE value="hw" />
     <MESSAGE value="bugfixes" />
     <MESSAGE value="Long time no see" />
-    <option name="LAST_COMMIT_MESSAGE" value="Long time no see" />
+    <MESSAGE value="lesson18" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson18" />
   </component>
 </project>
