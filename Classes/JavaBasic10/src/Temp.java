@@ -2,14 +2,13 @@ import java.util.Scanner;
 
 public class Temp {
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
-        //your code here
-        String eMail = s.next();
+        //DO NOT CHANGE
+        Scanner scan = new Scanner(System.in);
+        String word = scan.next();
+        //WRITE YOUR CODE HERE
 
-        if (eMail.contains("project") && eMail.contains("alejandro"))
-            System.out.println("read");
-        else
-            System.out.println("don't read");
+        System.out.println(word.charAt(word.length() - 1));
+
 
     }
 }
