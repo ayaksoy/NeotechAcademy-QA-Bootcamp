@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="lesson18" />
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="lesson18">
+      <change beforePath="$PROJECT_DIR$/src/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,64 +51,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArithmeticOperators.executor": "Run",
-    "Application.CarShop.executor": "Run",
-    "Application.CompoundOperator.executor": "Debug",
-    "Application.ElseIfCondition.executor": "Run",
-    "Application.HalosRequest.executor": "Run",
-    "Application.Hw4.executor": "Run",
-    "Application.IfCondition.executor": "Run",
-    "Application.IfElse.executor": "Run",
-    "Application.InstanceVariableDemo.executor": "Run",
-    "Application.IntroToArray.executor": "Run",
-    "Application.JavaProgrammer.executor": "Run",
-    "Application.LocalVariables.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ModulusOperator.executor": "Run",
-    "Application.NestedElseIF.executor": "Run",
-    "Application.NestedIf.executor": "Run",
-    "Application.OperationsOrder.executor": "Run",
-    "Application.PrimitiveCasting.executor": "Run",
-    "Application.PrimitiveDataTypes.executor": "Run",
-    "Application.PrintLine.executor": "Run",
-    "Application.Recap.executor": "Run",
-    "Application.RecapScanner.executor": "Run",
-    "Application.ScannerAndSwitch.executor": "Run",
-    "Application.ScannerDemo.executor": "Run",
-    "Application.School.executor": "Run",
-    "Application.StringConcatenation.executor": "Run",
-    "Application.StringExample.executor": "Run",
-    "Application.Strings.executor": "Run",
-    "Application.Task.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "Application.Task2.executor": "Run",
-    "Application.Temp.executor": "Run",
-    "Application.Variables.executor": "Run",
-    "Application.reacap.executor": "Run",
-    "Application.relationalOperators.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArithmeticOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompoundOperator.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ElseIfCondition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HalosRequest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hw4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfCondition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceVariableDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntroToArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaProgrammer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalVariables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ModulusOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedElseIF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationsOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitiveCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitiveDataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintLine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecapScanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerAndSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.School.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConcatenation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Temp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reacap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.relationalOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.InstanceVariableDemo">
     <configuration name="CarShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson14.CarShop" />
@@ -216,6 +218,7 @@
       <workItem from="1760501429947" duration="8912000" />
       <workItem from="1760579727759" duration="33274000" />
       <workItem from="1761091244128" duration="5254000" />
+      <workItem from="1761198211230" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
