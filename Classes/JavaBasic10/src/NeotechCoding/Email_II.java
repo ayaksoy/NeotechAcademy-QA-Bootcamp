@@ -1,6 +1,8 @@
+package NeotechCoding;
+
 import java.util.Scanner;
 
-public class Temp {
+public class Email_II {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         //Write your code here
@@ -14,4 +16,5 @@ public class Temp {
 
 
     }
+}
 }

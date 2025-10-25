@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="FindTheLength">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
-    </list>
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="FindAUser" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,15 +217,7 @@
       <workItem from="1760501429947" duration="8912000" />
       <workItem from="1760579727759" duration="33274000" />
       <workItem from="1761091244128" duration="5254000" />
-      <workItem from="1761198211230" duration="3065000" />
-    </task>
-    <task id="LOCAL-00002" summary="Helloworld">
-      <option name="closed" value="true" />
-      <created>1757776519191</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1757776519191</updated>
+      <workItem from="1761198211230" duration="3517000" />
     </task>
     <task id="LOCAL-00003" summary="Println print and \\n">
       <option name="closed" value="true" />
@@ -614,7 +603,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761200067203</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="FindAUser">
+      <option name="closed" value="true" />
+      <created>1761384039247</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1761384039247</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -634,7 +631,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="ElseIf Condition" />
     <MESSAGE value="Task1 is done" />
     <MESSAGE value="Nested if" />
     <MESSAGE value="Nested else if" />
@@ -659,6 +655,7 @@
     <MESSAGE value="PrintLetters" />
     <MESSAGE value="PrintLastCharacter" />
     <MESSAGE value="FindTheLength" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindTheLength" />
+    <MESSAGE value="FindAUser" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindAUser" />
   </component>
 </project>
