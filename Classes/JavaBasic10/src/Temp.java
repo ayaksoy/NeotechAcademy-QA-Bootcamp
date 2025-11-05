@@ -3,14 +3,23 @@ import java.util.Scanner;
 public class Temp {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        //Write your code here
-
-        String inp = scan.next();
-
-        String[] output = inp.split("[_@.]");
-        System.out.println("First name: " + output[0]);
-        System.out.println("Last name: " + output[1]);
-        System.out.println("Domain: " + output[2]);
+        String str = scan.next();
+        // Write here your code
+//        A sandwich is two pieces of bread with something in between. Print the string that is between the first and last appearance of "bread" in the given string, or return string "nothing" if there are not two pieces of bread.
+//
+//                Example:
+//
+//        input: breadjambread
+//        output: jam
+//
+//        input: xxbreadjambreadyy
+//        output: jam
+//
+//        input: xxbreadapple
+//        output: nothing
+//
+//        input: breadbutterbread
+//        output: butter
 
 
     }
