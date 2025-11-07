@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Email_I">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="lesson 20/21/22/23 and some coding challenges">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson18/InstanceVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson18/InstanceVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NeotechCoding/Email_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NeotechCoding/Email_II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson23/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson23/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +55,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Apple.executor": "Run",
     "Application.ArithmeticOperators.executor": "Run",
     "Application.CarShop.executor": "Run",
     "Application.CompoundOperator.executor": "Debug",
+    "Application.Computer.executor": "Run",
     "Application.CreditCard.executor": "Run",
     "Application.Degree.executor": "Run",
     "Application.ElseIfCondition.executor": "Run",
@@ -122,12 +122,12 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.Temp">
-    <configuration name="CreditCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson23.CreditCard" />
+    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson24.Apple" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson23.*" />
+          <option name="PATTERN" value="lesson24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Degree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson20.Degree" />
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson24.Computer" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson20.*" />
+          <option name="PATTERN" value="lesson24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,10 +184,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Temp" />
-        <item itemvalue="Application.Forest" />
+        <item itemvalue="Application.Apple" />
+        <item itemvalue="Application.Computer" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.CreditCard" />
-        <item itemvalue="Application.Degree" />
+        <item itemvalue="Application.Forest" />
       </list>
     </recent_temporary>
   </component>
@@ -232,15 +232,7 @@
       <workItem from="1761091244128" duration="5254000" />
       <workItem from="1761198211230" duration="14106000" />
       <workItem from="1761579916304" duration="5482000" />
-      <workItem from="1761693736836" duration="27726000" />
-    </task>
-    <task id="LOCAL-00005" summary="Variables">
-      <option name="closed" value="true" />
-      <created>1757788214776</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1757788214776</updated>
+      <workItem from="1761693736836" duration="38062000" />
     </task>
     <task id="LOCAL-00006" summary="Primitive data types">
       <option name="closed" value="true" />
@@ -626,7 +618,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761386451521</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="lesson 20/21/22/23 and some coding challenges">
+      <option name="closed" value="true" />
+      <created>1762301859204</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1762301859204</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -646,7 +646,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="Nested else if" />
     <MESSAGE value="Logical And operator" />
     <MESSAGE value="Logical Or operator" />
     <MESSAGE value="Logical NOT operator" />
@@ -671,6 +670,7 @@
     <MESSAGE value="FindAUser" />
     <MESSAGE value="Email_II" />
     <MESSAGE value="Email_I" />
-    <option name="LAST_COMMIT_MESSAGE" value="Email_I" />
+    <MESSAGE value="lesson 20/21/22/23 and some coding challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 20/21/22/23 and some coding challenges" />
   </component>
 </project>

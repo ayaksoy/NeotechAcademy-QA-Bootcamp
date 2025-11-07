@@ -11,6 +11,11 @@ public class Student {
 
     Student() {
     }
+
+    public static void main(String[] args) {
+        // Upcasting
+        Student student = new NeotechStudent("Alice", 20, "Dell");
+    }
 }
 
 
@@ -23,6 +28,12 @@ class NeotechStudent extends Student {
 //        I am not using super keyword here
         this.name = name;
         this.age = age;
+    }
+
+    void displayInfo() {
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Laptop: " + laptopBrand);
     }
 }
 
