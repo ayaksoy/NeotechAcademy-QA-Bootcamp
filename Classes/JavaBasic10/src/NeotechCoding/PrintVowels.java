@@ -12,7 +12,6 @@ public class PrintVowels {
             if (isVowel(character))
                 System.out.print(character);
         }
-
     }
 
     public static boolean isVowel(char c) {
