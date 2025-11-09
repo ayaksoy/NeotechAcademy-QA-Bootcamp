@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="catAndDog">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Without_Xx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +87,7 @@
     "Application.PrintVowels.executor": "Debug",
     "Application.Recap.executor": "Run",
     "Application.RecapScanner.executor": "Run",
+    "Application.ReverseIt.executor": "Run",
     "Application.ScannerAndSwitch.executor": "Run",
     "Application.ScannerDemo.executor": "Run",
     "Application.School.executor": "Run",
@@ -122,7 +123,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Cat_And_Dog">
+  <component name="RunManager" selected="Application.ReverseIt">
     <configuration name="Cat_And_Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NeotechCoding.Cat_And_Dog" />
       <module name="JavaBasic10" />
@@ -162,9 +163,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Temp" />
+    <configuration name="ReverseIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeotechCoding.ReverseIt" />
       <module name="JavaBasic10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NeotechCoding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -184,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseIt" />
         <item itemvalue="Application.Cat_And_Dog" />
         <item itemvalue="Application.PrintVowels" />
         <item itemvalue="Application.lesson26.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Temp" />
       </list>
     </recent_temporary>
   </component>
@@ -233,15 +240,7 @@
       <workItem from="1761091244128" duration="5254000" />
       <workItem from="1761198211230" duration="14106000" />
       <workItem from="1761579916304" duration="5482000" />
-      <workItem from="1761693736836" duration="50028000" />
-    </task>
-    <task id="LOCAL-00013" summary="Operations Orders">
-      <option name="closed" value="true" />
-      <created>1757872260347</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1757872260347</updated>
+      <workItem from="1761693736836" duration="51144000" />
     </task>
     <task id="LOCAL-00014" summary="Task2 done">
       <option name="closed" value="true" />
@@ -627,7 +626,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762648348756</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Without_Xx">
+      <option name="closed" value="true" />
+      <created>1762649076199</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1762649076199</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,7 +654,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="While loop" />
     <MESSAGE value="Task1" />
     <MESSAGE value="Recap" />
     <MESSAGE value="A challenge from friend" />
@@ -672,6 +678,7 @@
     <MESSAGE value="lesson26 hw1" />
     <MESSAGE value="CountJava" />
     <MESSAGE value="catAndDog" />
-    <option name="LAST_COMMIT_MESSAGE" value="catAndDog" />
+    <MESSAGE value="Without_Xx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Without_Xx" />
   </component>
 </project>
