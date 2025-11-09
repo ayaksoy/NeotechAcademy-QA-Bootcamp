@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="CountJava">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="catAndDog">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,15 +233,7 @@
       <workItem from="1761091244128" duration="5254000" />
       <workItem from="1761198211230" duration="14106000" />
       <workItem from="1761579916304" duration="5482000" />
-      <workItem from="1761693736836" duration="49244000" />
-    </task>
-    <task id="LOCAL-00012" summary="ArithmeticOperators">
-      <option name="closed" value="true" />
-      <created>1757871508740</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1757871508740</updated>
+      <workItem from="1761693736836" duration="50028000" />
     </task>
     <task id="LOCAL-00013" summary="Operations Orders">
       <option name="closed" value="true" />
@@ -627,7 +619,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762647779805</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="catAndDog">
+      <option name="closed" value="true" />
+      <created>1762648348756</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1762648348756</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,7 +647,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="Switch case" />
     <MESSAGE value="While loop" />
     <MESSAGE value="Task1" />
     <MESSAGE value="Recap" />
@@ -672,6 +671,7 @@
     <MESSAGE value="PrintVowels" />
     <MESSAGE value="lesson26 hw1" />
     <MESSAGE value="CountJava" />
-    <option name="LAST_COMMIT_MESSAGE" value="CountJava" />
+    <MESSAGE value="catAndDog" />
+    <option name="LAST_COMMIT_MESSAGE" value="catAndDog" />
   </component>
 </project>
