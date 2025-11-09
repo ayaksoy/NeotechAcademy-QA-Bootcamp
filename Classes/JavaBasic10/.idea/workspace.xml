@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="lesson26 hw1">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="CountJava">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NeotechCoding/PrintVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NeotechCoding/PrintVowels.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,7 @@
     "Application.Apple.executor": "Run",
     "Application.ArithmeticOperators.executor": "Run",
     "Application.CarShop.executor": "Run",
+    "Application.Cat_And_Dog.executor": "Debug",
     "Application.CompoundOperator.executor": "Debug",
     "Application.Computer.executor": "Run",
     "Application.CreditCard.executor": "Run",
@@ -84,7 +84,7 @@
     "Application.PrimitiveDataTypes.executor": "Run",
     "Application.PrintLetters.executor": "Run",
     "Application.PrintLine.executor": "Run",
-    "Application.PrintVowels.executor": "Run",
+    "Application.PrintVowels.executor": "Debug",
     "Application.Recap.executor": "Run",
     "Application.RecapScanner.executor": "Run",
     "Application.ScannerAndSwitch.executor": "Run",
@@ -122,13 +122,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintVowels">
-    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson24.Apple" />
+  <component name="RunManager" selected="Application.Cat_And_Dog">
+    <configuration name="Cat_And_Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeotechCoding.Cat_And_Dog" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson24.*" />
+          <option name="PATTERN" value="NeotechCoding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cat_And_Dog" />
         <item itemvalue="Application.PrintVowels" />
         <item itemvalue="Application.lesson26.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Temp" />
-        <item itemvalue="Application.Apple" />
       </list>
     </recent_temporary>
   </component>
@@ -233,15 +233,7 @@
       <workItem from="1761091244128" duration="5254000" />
       <workItem from="1761198211230" duration="14106000" />
       <workItem from="1761579916304" duration="5482000" />
-      <workItem from="1761693736836" duration="48558000" />
-    </task>
-    <task id="LOCAL-00011" summary="some changes">
-      <option name="closed" value="true" />
-      <created>1757870326886</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1757870326886</updated>
+      <workItem from="1761693736836" duration="49244000" />
     </task>
     <task id="LOCAL-00012" summary="ArithmeticOperators">
       <option name="closed" value="true" />
@@ -627,7 +619,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762646606309</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="CountJava">
+      <option name="closed" value="true" />
+      <created>1762647779805</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1762647779805</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,7 +647,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="Tasks" />
     <MESSAGE value="Switch case" />
     <MESSAGE value="While loop" />
     <MESSAGE value="Task1" />
@@ -672,6 +671,7 @@
     <MESSAGE value="lesson26" />
     <MESSAGE value="PrintVowels" />
     <MESSAGE value="lesson26 hw1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson26 hw1" />
+    <MESSAGE value="CountJava" />
+    <option name="LAST_COMMIT_MESSAGE" value="CountJava" />
   </component>
 </project>
