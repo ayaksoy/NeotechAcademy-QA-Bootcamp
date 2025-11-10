@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Without_Xx">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="ReverseIt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson25/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson25/Computer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,7 @@
     "Application.Cat_And_Dog.executor": "Debug",
     "Application.CompoundOperator.executor": "Debug",
     "Application.Computer.executor": "Run",
+    "Application.CountTriples.executor": "Run",
     "Application.CreditCard.executor": "Run",
     "Application.Degree.executor": "Run",
     "Application.ElseIfCondition.executor": "Run",
@@ -123,7 +125,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseIt">
+  <component name="RunManager" selected="Application.CountTriples">
     <configuration name="Cat_And_Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NeotechCoding.Cat_And_Dog" />
       <module name="JavaBasic10" />
@@ -137,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NeotechCoding.Main" />
+    <configuration name="CountTriples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeotechCoding.CountTriples" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
@@ -191,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountTriples" />
         <item itemvalue="Application.ReverseIt" />
         <item itemvalue="Application.Cat_And_Dog" />
         <item itemvalue="Application.PrintVowels" />
         <item itemvalue="Application.lesson26.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -240,15 +242,7 @@
       <workItem from="1761091244128" duration="5254000" />
       <workItem from="1761198211230" duration="14106000" />
       <workItem from="1761579916304" duration="5482000" />
-      <workItem from="1761693736836" duration="51144000" />
-    </task>
-    <task id="LOCAL-00014" summary="Task2 done">
-      <option name="closed" value="true" />
-      <created>1757872601918</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1757872601918</updated>
+      <workItem from="1761693736836" duration="54010000" />
     </task>
     <task id="LOCAL-00015" summary="some fixes">
       <option name="closed" value="true" />
@@ -634,7 +628,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762649076199</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="ReverseIt">
+      <option name="closed" value="true" />
+      <created>1762651872582</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1762651872582</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,7 +656,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="Task1" />
     <MESSAGE value="Recap" />
     <MESSAGE value="A challenge from friend" />
     <MESSAGE value="Loops" />
@@ -679,6 +680,7 @@
     <MESSAGE value="CountJava" />
     <MESSAGE value="catAndDog" />
     <MESSAGE value="Without_Xx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Without_Xx" />
+    <MESSAGE value="ReverseIt" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReverseIt" />
   </component>
 </project>
