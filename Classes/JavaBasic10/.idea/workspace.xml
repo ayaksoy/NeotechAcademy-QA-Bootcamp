@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Count triples">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="lesson27 homework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +100,7 @@
     "Application.Student.executor": "Run",
     "Application.Task.executor": "Run",
     "Application.Task1.executor": "Run",
-    "Application.Task2.executor": "Run",
+    "Application.Task2.executor": "Debug",
     "Application.Temp.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.lesson26.Main.executor": "Run",
@@ -125,20 +126,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Homework">
-    <configuration name="Cat_And_Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NeotechCoding.Cat_And_Dog" />
-      <module name="JavaBasic10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NeotechCoding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="CountTriples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NeotechCoding.CountTriples" />
       <module name="JavaBasic10" />
@@ -157,20 +145,7 @@
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NeotechCoding.PrintVowels" />
-      <module name="JavaBasic10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NeotechCoding.*" />
+          <option name="PATTERN" value="lesson28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,13 +166,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson28.Task" />
+      <module name="JavaBasic10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson28.Task2" />
+      <module name="JavaBasic10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task" />
         <item itemvalue="Application.Homework" />
         <item itemvalue="Application.CountTriples" />
         <item itemvalue="Application.ReverseIt" />
-        <item itemvalue="Application.Cat_And_Dog" />
-        <item itemvalue="Application.PrintVowels" />
       </list>
     </recent_temporary>
   </component>
@@ -243,15 +244,9 @@
       <workItem from="1761198211230" duration="14106000" />
       <workItem from="1761579916304" duration="5482000" />
       <workItem from="1761693736836" duration="55619000" />
-      <workItem from="1763049514226" duration="1868000" />
-    </task>
-    <task id="LOCAL-00016" summary="modulus operator">
-      <option name="closed" value="true" />
-      <created>1758065206273</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1758065206273</updated>
+      <workItem from="1763049514226" duration="3734000" />
+      <workItem from="1763231043636" duration="2094000" />
+      <workItem from="1763315310503" duration="13736000" />
     </task>
     <task id="LOCAL-00017" summary="Recap">
       <option name="closed" value="true" />
@@ -637,7 +632,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762736176566</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="lesson27 homework">
+      <option name="closed" value="true" />
+      <created>1763194862821</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1763194862822</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,7 +660,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="A challenge from friend" />
     <MESSAGE value="Loops" />
     <MESSAGE value="Loops task" />
     <MESSAGE value="hw" />
@@ -682,6 +684,7 @@
     <MESSAGE value="Without_Xx" />
     <MESSAGE value="ReverseIt" />
     <MESSAGE value="Count triples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Count triples" />
+    <MESSAGE value="lesson27 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson27 homework" />
   </component>
 </project>
