@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Map task">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="lesson30 hw1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,8 @@
     "Application.Forest.executor": "Run",
     "Application.HalosRequest.executor": "Run",
     "Application.Homework.executor": "Run",
+    "Application.Homework1.executor": "Run",
+    "Application.Homework2.executor": "Run",
     "Application.Hw4.executor": "Run",
     "Application.IfCondition.executor": "Run",
     "Application.IfElse.executor": "Run",
@@ -126,13 +128,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OtherMaps">
-    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson27.Homework" />
+  <component name="RunManager" selected="Application.Homework2">
+    <configuration name="Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson30.Homework1" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson28.*" />
+          <option name="PATTERN" value="lesson30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson30.Homework2" />
+      <module name="JavaBasic10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,19 +161,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson28.Task" />
-      <module name="JavaBasic10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework2" />
+        <item itemvalue="Application.Homework1" />
         <item itemvalue="Application.OtherMaps" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Homework" />
       </list>
     </recent_temporary>
   </component>
@@ -248,23 +250,7 @@
       <workItem from="1763231043636" duration="2094000" />
       <workItem from="1763315310503" duration="14408000" />
       <workItem from="1763837602060" duration="53000" />
-      <workItem from="1763924995824" duration="1515000" />
-    </task>
-    <task id="LOCAL-00020" summary="Task1 is complete">
-      <option name="closed" value="true" />
-      <created>1758072192452</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1758072192452</updated>
-    </task>
-    <task id="LOCAL-00021" summary="relationalOperators">
-      <option name="closed" value="true" />
-      <created>1758072640772</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1758072640772</updated>
+      <workItem from="1763924995824" duration="3066000" />
     </task>
     <task id="LOCAL-00022" summary="If statement">
       <option name="closed" value="true" />
@@ -642,7 +628,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763925392186</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="other maps">
+      <option name="closed" value="true" />
+      <created>1763930222023</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1763930222023</updated>
+    </task>
+    <task id="LOCAL-00070" summary="lesson30 hw1">
+      <option name="closed" value="true" />
+      <created>1763931123508</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1763931123508</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -662,8 +664,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="bugfixes" />
-    <MESSAGE value="Long time no see" />
     <MESSAGE value="lesson18" />
     <MESSAGE value="Alejandro_II" />
     <MESSAGE value="PrintLetters" />
@@ -687,6 +687,8 @@
     <MESSAGE value="taks" />
     <MESSAGE value="Map task" />
     <MESSAGE value="remove te key" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove te key" />
+    <MESSAGE value="other maps" />
+    <MESSAGE value="lesson30 hw1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson30 hw1" />
   </component>
 </project>
