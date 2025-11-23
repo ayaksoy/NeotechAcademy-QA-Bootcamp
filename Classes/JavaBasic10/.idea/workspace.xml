@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="lesson27 homework">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="taks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,81 +51,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Apple.executor": "Run",
-    "Application.ArithmeticOperators.executor": "Run",
-    "Application.CarShop.executor": "Run",
-    "Application.Cat_And_Dog.executor": "Debug",
-    "Application.CompoundOperator.executor": "Debug",
-    "Application.Computer.executor": "Run",
-    "Application.CountTriples.executor": "Run",
-    "Application.CreditCard.executor": "Run",
-    "Application.Degree.executor": "Run",
-    "Application.ElseIfCondition.executor": "Run",
-    "Application.Employee.executor": "Run",
-    "Application.Employeedemo.executor": "Run",
-    "Application.Forest.executor": "Run",
-    "Application.HalosRequest.executor": "Run",
-    "Application.Homework.executor": "Run",
-    "Application.Hw4.executor": "Run",
-    "Application.IfCondition.executor": "Run",
-    "Application.IfElse.executor": "Run",
-    "Application.InstanceVariableDemo.executor": "Run",
-    "Application.IntroToArray.executor": "Run",
-    "Application.JavaProgrammer.executor": "Run",
-    "Application.Lesson20.Student.executor": "Run",
-    "Application.LocalVariables.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ModulusOperator.executor": "Run",
-    "Application.NestedElseIF.executor": "Run",
-    "Application.NestedIf.executor": "Run",
-    "Application.OperationsOrder.executor": "Run",
-    "Application.PrimitiveCasting.executor": "Run",
-    "Application.PrimitiveDataTypes.executor": "Run",
-    "Application.PrintLetters.executor": "Run",
-    "Application.PrintLine.executor": "Run",
-    "Application.PrintVowels.executor": "Debug",
-    "Application.Recap.executor": "Run",
-    "Application.RecapScanner.executor": "Run",
-    "Application.ReverseIt.executor": "Run",
-    "Application.ScannerAndSwitch.executor": "Run",
-    "Application.ScannerDemo.executor": "Run",
-    "Application.School.executor": "Run",
-    "Application.StringConcatenation.executor": "Run",
-    "Application.StringExample.executor": "Run",
-    "Application.Strings.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.Task.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "Application.Task2.executor": "Debug",
-    "Application.Temp.executor": "Run",
-    "Application.Variables.executor": "Run",
-    "Application.lesson26.Main.executor": "Run",
-    "Application.reacap.executor": "Run",
-    "Application.relationalOperators.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Apple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat_And_Dog.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CompoundOperator.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Computer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountTriples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreditCard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Degree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ElseIfCondition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Employeedemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Forest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HalosRequest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hw4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfCondition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceVariableDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntroToArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaProgrammer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lesson20.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalVariables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ModulusOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedElseIF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationsOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitiveCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitiveDataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintLetters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintLine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintVowels.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Recap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecapScanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseIt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerAndSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.School.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConcatenation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Temp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lesson26.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reacap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.relationalOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Task2">
+}</component>
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="CountTriples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NeotechCoding.CountTriples" />
       <module name="JavaBasic10" />
@@ -153,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NeotechCoding.ReverseIt" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson28.Task" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NeotechCoding.*" />
+          <option name="PATTERN" value="lesson28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson28.Task" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson30.Task1" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson28.*" />
+          <option name="PATTERN" value="lesson30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task" />
         <item itemvalue="Application.Homework" />
         <item itemvalue="Application.CountTriples" />
-        <item itemvalue="Application.ReverseIt" />
       </list>
     </recent_temporary>
   </component>
@@ -246,15 +245,8 @@
       <workItem from="1761693736836" duration="55619000" />
       <workItem from="1763049514226" duration="3734000" />
       <workItem from="1763231043636" duration="2094000" />
-      <workItem from="1763315310503" duration="13736000" />
-    </task>
-    <task id="LOCAL-00017" summary="Recap">
-      <option name="closed" value="true" />
-      <created>1758068151399</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1758068151399</updated>
+      <workItem from="1763315310503" duration="14408000" />
+      <workItem from="1763837602060" duration="53000" />
     </task>
     <task id="LOCAL-00018" summary="CompoundOperator">
       <option name="closed" value="true" />
@@ -640,7 +632,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763194862822</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="taks">
+      <option name="closed" value="true" />
+      <created>1763735421817</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1763735421817</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -660,7 +660,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="Loops" />
     <MESSAGE value="Loops task" />
     <MESSAGE value="hw" />
     <MESSAGE value="bugfixes" />
@@ -685,6 +684,7 @@
     <MESSAGE value="ReverseIt" />
     <MESSAGE value="Count triples" />
     <MESSAGE value="lesson27 homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson27 homework" />
+    <MESSAGE value="taks" />
+    <option name="LAST_COMMIT_MESSAGE" value="taks" />
   </component>
 </project>
