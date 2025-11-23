@@ -19,6 +19,7 @@ public class Task1 {
         System.out.println("Total Entry = " + building.size());
 
         building.replace(4, "BCA");
+        building.remove(3);
         System.out.println(building);
 
     }
