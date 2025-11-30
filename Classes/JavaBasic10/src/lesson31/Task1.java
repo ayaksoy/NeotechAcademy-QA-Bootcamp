@@ -1,9 +1,7 @@
 package lesson31;
 
-import java.util.Iterator;
-import java.util.Map;
+import java.util.*;
 import java.util.Map.Entry;
-import java.util.TreeMap;
 
 public class Task1 {
     public static void main(String[] args) {
@@ -30,6 +28,8 @@ public class Task1 {
                 it.remove();
         }
         System.out.println(cities);
+
+        List<Map<Integer, String>> asd = new ArrayList<>();
 
     }
 }

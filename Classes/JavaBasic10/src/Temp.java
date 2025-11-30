@@ -1,46 +1,25 @@
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Temp {
-    public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+    // Create your method below
 
-        String input = scan.nextLine();
+    private static ArrayList<Integer> timesTwo(ArrayList<Integer> list) {
 
-        // Extract the nums array and target value
-        String[] parts = input.split("], target = ");
-        String numsPart = parts[0].replace("nums = [", "").trim();
-        int target = Integer.parseInt(parts[1].trim());
-
-        // Convert the nums part to an integer array
-        int[] nums = Arrays.stream(numsPart.split(","))
-                .mapToInt(Integer::parseInt)
-                .toArray();
-
-        // Find and print the result
-        int[] result = twoSum(nums, target);
-        System.out.println("Result: " + Arrays.toString(result));
+        for (int i = 0; i < list.size(); i++)
+            list.set(i, list.get(i) * 2);
+        return list;
     }
+    // Do not touch below
 
-    public static int[] twoSum(int[] nums, int target) {
-        // value -> index tutan HashMap
-        Map<Integer, Integer> map = new HashMap<>();
-
-        for (int i = 0; i < nums.length; i++) {
-            int complement = target - nums[i];
-
-            // complement daha önce görüldüyse çözümü bulduk
-            if (map.containsKey(complement)) {
-                return new int[]{map.get(complement), i};
-            }
-
-            // bu değeri map'e ekliyoruz
-            map.put(nums[i], i);
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int size = in.nextInt();
+        ArrayList<Integer> list = new ArrayList<>();
+        for (int i = 0; i < size; i++) {
+            list.add(in.nextInt());
         }
-
-        return new int[]{};
+        System.out.println(timesTwo(list));
     }
 
 

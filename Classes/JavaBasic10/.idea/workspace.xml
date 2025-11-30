@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="lesson31 task">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="Nanuk">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson31/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +68,7 @@
     "Application.ElseIfCondition.executor": "Run",
     "Application.Employee.executor": "Run",
     "Application.Employeedemo.executor": "Run",
+    "Application.ExcelDemo.executor": "Run",
     "Application.Forest.executor": "Run",
     "Application.HalosRequest.executor": "Run",
     "Application.Homework.executor": "Run",
@@ -90,6 +94,7 @@
     "Application.PrintLetters.executor": "Run",
     "Application.PrintLine.executor": "Run",
     "Application.PrintVowels.executor": "Debug",
+    "Application.PropertiesFileReading.executor": "Run",
     "Application.Recap.executor": "Run",
     "Application.RecapScanner.executor": "Run",
     "Application.ReverseIt.executor": "Run",
@@ -105,6 +110,7 @@
     "Application.Task2.executor": "Debug",
     "Application.Temp.executor": "Run",
     "Application.Variables.executor": "Run",
+    "Application.WriteToPropertiesFile.executor": "Run",
     "Application.lesson26.Main.executor": "Run",
     "Application.lesson31.Task1.executor": "Run",
     "Application.reacap.executor": "Run",
@@ -121,21 +127,26 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "rearrange.code.on.save": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lesson31.Task1">
-    <configuration name="Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson30.Homework1" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/extra" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExcelDemo">
+    <configuration name="ExcelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson32.ExcelDemo" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson30.*" />
+          <option name="PATTERN" value="lesson32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson30.Homework2" />
+    <configuration name="PropertiesFileReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson32.PropertiesFileReading" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson30.*" />
+          <option name="PATTERN" value="lesson32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,25 +167,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OtherMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson30.OtherMaps" />
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temp" />
       <module name="JavaBasic10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson30.Task1" />
+    <configuration name="WriteToPropertiesFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson32.WriteToPropertiesFile" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson30.*" />
+          <option name="PATTERN" value="lesson32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExcelDemo" />
+        <item itemvalue="Application.WriteToPropertiesFile" />
+        <item itemvalue="Application.PropertiesFileReading" />
+        <item itemvalue="Application.Temp" />
         <item itemvalue="Application.lesson31.Task1" />
-        <item itemvalue="Application.Homework2" />
-        <item itemvalue="Application.Homework1" />
-        <item itemvalue="Application.OtherMaps" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -251,15 +256,7 @@
       <workItem from="1763231043636" duration="2094000" />
       <workItem from="1763315310503" duration="14408000" />
       <workItem from="1763837602060" duration="53000" />
-      <workItem from="1763924995824" duration="18700000" />
-    </task>
-    <task id="LOCAL-00024" summary="ElseIf Condition">
-      <option name="closed" value="true" />
-      <created>1758241412745</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1758241412746</updated>
+      <workItem from="1763924995824" duration="49228000" />
     </task>
     <task id="LOCAL-00025" summary="Task1 is done">
       <option name="closed" value="true" />
@@ -645,7 +642,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764269174469</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Nanuk">
+      <option name="closed" value="true" />
+      <created>1764270099467</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1764270099467</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -665,7 +670,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="PrintLetters" />
     <MESSAGE value="PrintLastCharacter" />
     <MESSAGE value="FindTheLength" />
     <MESSAGE value="FindAUser" />
@@ -690,6 +694,7 @@
     <MESSAGE value="lesson30 hw1" />
     <MESSAGE value="lesson30 hw2" />
     <MESSAGE value="lesson31 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson31 task" />
+    <MESSAGE value="Nanuk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nanuk" />
   </component>
 </project>
