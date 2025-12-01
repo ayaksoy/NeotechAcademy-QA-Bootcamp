@@ -139,7 +139,7 @@
       <recent name="$PROJECT_DIR$/extra" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckedExceptionDemo">
+  <component name="RunManager" selected="Application.Swap2Nums">
     <configuration name="CheckedExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson32.CheckedExceptionDemo" />
       <module name="JavaBasic10" />
@@ -179,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropertiesFileReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson32.PropertiesFileReading" />
+    <configuration name="Swap2Nums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interwievQuestions.Swap2Nums" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson32.*" />
+          <option name="PATTERN" value="interwievQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Swap2Nums" />
         <item itemvalue="Application.CheckedExceptionDemo" />
         <item itemvalue="Application.ExceptionDemo" />
         <item itemvalue="Application.ExcelDemo" />
         <item itemvalue="Application.WriteToPropertiesFile" />
-        <item itemvalue="Application.PropertiesFileReading" />
       </list>
     </recent_temporary>
   </component>
