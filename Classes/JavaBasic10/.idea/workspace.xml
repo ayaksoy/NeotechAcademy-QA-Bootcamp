@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="iq isPrime">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="fibonacci" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +85,7 @@
     "Application.ModulusOperator.executor": "Run",
     "Application.NestedElseIF.executor": "Run",
     "Application.NestedIf.executor": "Run",
+    "Application.NumOfWords.executor": "Run",
     "Application.OperationsOrder.executor": "Run",
     "Application.OtherMaps.executor": "Run",
     "Application.PrimitiveCasting.executor": "Run",
@@ -142,7 +141,7 @@
       <recent name="$PROJECT_DIR$/extra" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.NumOfWords">
     <configuration name="CheckedExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson32.CheckedExceptionDemo" />
       <module name="JavaBasic10" />
@@ -156,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson32.ExceptionDemo" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interwievQuestions.Fibonacci" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson32.*" />
+          <option name="PATTERN" value="interwievQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interwievQuestions.Fibonacci" />
+    <configuration name="NumOfWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interwievQuestions.NumOfWords" />
       <module name="JavaBasic10" />
       <extension name="coverage">
         <pattern>
@@ -210,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumOfWords" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.isPrime" />
         <item itemvalue="Application.Swap2Nums" />
         <item itemvalue="Application.CheckedExceptionDemo" />
-        <item itemvalue="Application.ExceptionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -264,15 +263,7 @@
       <workItem from="1763231043636" duration="2094000" />
       <workItem from="1763315310503" duration="14408000" />
       <workItem from="1763837602060" duration="53000" />
-      <workItem from="1763924995824" duration="58679000" />
-    </task>
-    <task id="LOCAL-00032" summary="NextLineDemo">
-      <option name="closed" value="true" />
-      <created>1758398776275</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1758398776275</updated>
+      <workItem from="1763924995824" duration="59127000" />
     </task>
     <task id="LOCAL-00033" summary="Tasks">
       <option name="closed" value="true" />
@@ -658,7 +649,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764549658697</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="fibonacci">
+      <option name="closed" value="true" />
+      <created>1764551649033</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1764551649033</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -678,7 +677,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value=" homework" />
     <MESSAGE value="lesson26" />
     <MESSAGE value="PrintVowels" />
     <MESSAGE value="lesson26 hw1" />
@@ -703,6 +701,7 @@
     <MESSAGE value="exeption handling" />
     <MESSAGE value="iq swap2nums" />
     <MESSAGE value="iq isPrime" />
-    <option name="LAST_COMMIT_MESSAGE" value="iq isPrime" />
+    <MESSAGE value="fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="fibonacci" />
   </component>
 </project>
