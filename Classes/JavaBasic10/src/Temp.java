@@ -32,6 +32,7 @@ public class Temp {
         }
         Arrays.sort(arr);
         System.out.println(Arrays.toString(arr));
+        System.out.println();
 
 
     }
