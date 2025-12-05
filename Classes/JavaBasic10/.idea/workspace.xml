@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="numofwords">
+    <list default="true" id="1ebbb4b3-ee0c-4b91-903f-7b94f688cc52" name="Changes" comment="homework1 lesson35">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
     "Application.Forest.executor": "Run",
     "Application.HalosRequest.executor": "Run",
     "Application.Homework.executor": "Run",
-    "Application.Homework1.executor": "Run",
+    "Application.Homework1.executor": "Debug",
     "Application.Homework2.executor": "Run",
     "Application.Hw4.executor": "Run",
     "Application.IfCondition.executor": "Run",
@@ -110,7 +111,7 @@
     "Application.Task.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task2.executor": "Debug",
-    "Application.Temp.executor": "Run",
+    "Application.Temp.executor": "Debug",
     "Application.Variables.executor": "Run",
     "Application.WriteToPropertiesFile.executor": "Run",
     "Application.isPrime.executor": "Run",
@@ -143,7 +144,7 @@
       <recent name="$PROJECT_DIR$/extra" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Homework1">
+  <component name="RunManager" selected="Application.Temp">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interwievQuestions.Fibonacci" />
       <module name="JavaBasic10" />
@@ -183,15 +184,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap2Nums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interwievQuestions.Swap2Nums" />
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temp" />
       <module name="JavaBasic10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interwievQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -211,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Temp" />
         <item itemvalue="Application.Homework1" />
         <item itemvalue="Application.NumOfWords" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.isPrime" />
-        <item itemvalue="Application.Swap2Nums" />
       </list>
     </recent_temporary>
   </component>
@@ -265,15 +260,8 @@
       <workItem from="1763231043636" duration="2094000" />
       <workItem from="1763315310503" duration="14408000" />
       <workItem from="1763837602060" duration="53000" />
-      <workItem from="1763924995824" duration="69640000" />
-    </task>
-    <task id="LOCAL-00034" summary="Recap">
-      <option name="closed" value="true" />
-      <created>1758673834402</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1758673834402</updated>
+      <workItem from="1763924995824" duration="69758000" />
+      <workItem from="1764895534410" duration="3095000" />
     </task>
     <task id="LOCAL-00035" summary="Recap">
       <option name="closed" value="true" />
@@ -659,7 +647,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764553820032</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="homework1 lesson35">
+      <option name="closed" value="true" />
+      <created>1764807206790</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1764807206790</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -679,7 +675,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="PrintVowels" />
     <MESSAGE value="lesson26 hw1" />
     <MESSAGE value="CountJava" />
     <MESSAGE value="catAndDog" />
@@ -704,6 +699,7 @@
     <MESSAGE value="iq isPrime" />
     <MESSAGE value="fibonacci" />
     <MESSAGE value="numofwords" />
-    <option name="LAST_COMMIT_MESSAGE" value="numofwords" />
+    <MESSAGE value="homework1 lesson35" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework1 lesson35" />
   </component>
 </project>

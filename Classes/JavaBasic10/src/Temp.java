@@ -1,26 +1,38 @@
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Temp {
-    // Create your method below
-
-    private static ArrayList<Integer> timesTwo(ArrayList<Integer> list) {
-
-        for (int i = 0; i < list.size(); i++)
-            list.set(i, list.get(i) * 2);
-        return list;
-    }
-    // Do not touch below
-
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int size = in.nextInt();
-        ArrayList<Integer> list = new ArrayList<>();
-        for (int i = 0; i < size; i++) {
-            list.add(in.nextInt());
+        Scanner scan = new Scanner(System.in);
+        String str = scan.nextLine();
+        int count = 0;
+        //Write your code here
+        String[] words = str.split("_");
+        int shortest = words[0].length();
+
+        for (String word : words)
+            if (word.length() < shortest)
+                shortest = word.length();
+
+        for (String word : words)
+            if (word.length() == shortest)
+                count++;
+
+        String[] arr = new String[count];
+//        int i = 0;
+//        for (String word : words)
+//            if (word.length() == shortest)
+//                arr[i++] = word;
+        int j = 0;
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].length() == shortest) {
+                arr[j] = words[i];
+                ++j;
+            }
         }
-        System.out.println(timesTwo(list));
+        Arrays.sort(arr);
+        System.out.println(Arrays.toString(arr));
+
+
     }
-
-
 }

@@ -1,4 +1,4 @@
-package Lesson20;
+package lesson20;
 
 public class Student {
 //        Write program as a Student class that has instance variables name and address.

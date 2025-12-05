@@ -1,4 +1,4 @@
-package Lesson20;
+package lesson20;
 
 public class Degree {
     // Create a class 'Degree' having a method 'getPrerequisite' that prints

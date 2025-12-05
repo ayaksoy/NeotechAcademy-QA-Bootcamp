@@ -1,4 +1,4 @@
-package Lesson20;
+package lesson20;
 
 public class Teacher extends Student {
 }
