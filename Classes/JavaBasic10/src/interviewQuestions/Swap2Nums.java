@@ -1,4 +1,4 @@
-package interwievQuestions;
+package interviewQuestions;
 
 public class Swap2Nums {
     public static void main(String[] args) {
