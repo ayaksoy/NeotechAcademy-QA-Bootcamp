@@ -1,39 +1,27 @@
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
+import java.util.Map;
 
 public class Temp {
+    public static ArrayList<String> swap(ArrayList<String> list, int pos1, int pos2) {
+        // complete the method
+        String temp = list.get(pos1);
+        list.set(pos1, list.get(pos2));
+        list.set(pos2, temp);
+
+        return list;
+    }
+
+    // Do not touch below
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        String str = scan.nextLine();
-        int count = 0;
-        //Write your code here
-        String[] words = str.split("_");
-        int shortest = words[0].length();
-
-        for (String word : words)
-            if (word.length() < shortest)
-                shortest = word.length();
-
-        for (String word : words)
-            if (word.length() == shortest)
-                count++;
-
-        String[] arr = new String[count];
-//        int i = 0;
-//        for (String word : words)
-//            if (word.length() == shortest)
-//                arr[i++] = word;
-        int j = 0;
-        for (int i = 0; i < words.length; i++) {
-            if (words[i].length() == shortest) {
-                arr[j] = words[i];
-                ++j;
-            }
+        Map<String, Integer> map = new LinkedHashMap<>();
+        map.put("A", 1);
+        map.put("B", 2);
+        map.put("C", 3);
+        int sum = 0;
+        for (Integer key : map.values()) {
+            sum += key;
         }
-        Arrays.sort(arr);
-        System.out.println(Arrays.toString(arr));
-        System.out.println();
-
-
+        System.out.println(sum);
     }
 }
