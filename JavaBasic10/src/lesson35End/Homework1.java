@@ -1,4 +1,4 @@
-package lesson35;
+package lesson35End;
 
 public class Homework1 {
     public static void main(String[] args) {

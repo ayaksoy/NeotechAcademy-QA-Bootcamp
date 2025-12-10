@@ -1,4 +1,4 @@
-package lesson35;
+package lesson35End;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

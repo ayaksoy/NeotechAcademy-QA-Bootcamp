@@ -1,4 +1,4 @@
-package lesson35;
+package lesson35End;
 
 public class CheckedExceptionDemo2 {
 
