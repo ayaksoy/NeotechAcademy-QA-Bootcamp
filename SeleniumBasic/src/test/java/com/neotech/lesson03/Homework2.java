@@ -3,17 +3,18 @@ package com.neotech.lesson03;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
 
 public class Homework2 {
     public static void main(String[] args) throws InterruptedException {
-    WebDriver driver = new ChromeDriver();
+    WebDriver driver = new FirefoxDriver();
 
     driver.get("http://demo.guru99.com/test/newtours/");
     driver.findElement(By.cssSelector("a[href='register.php']")).click();
-    driver.findElement(By.cssSelector("input[name = 'firstName']")).sendKeys("Ahmet");
-    driver.findElement(By.cssSelector("input[name = 'lastName']")).sendKeys("aksoy");
-    driver.findElement(By.cssSelector("input[name = 'phone']")).sendKeys("555555");
+    driver.findElement(By.cssSelector("input[name *= 'rstNa']")).sendKeys("Ahmet");
+    driver.findElement(By.cssSelector("input[name ^= 'last']")).sendKeys("aksoy");
+    driver.findElement(By.cssSelector("input[name $= 'hone']")).sendKeys("555555");
     driver.findElement(By.cssSelector("input[name = 'userName']")).sendKeys("Ahmet@gmail.com");
     driver.findElement(By.cssSelector("input[name = 'address1']")).sendKeys("hadimkoy");
     driver.findElement(By.cssSelector("input[name = 'city']")).sendKeys("istanbul");
