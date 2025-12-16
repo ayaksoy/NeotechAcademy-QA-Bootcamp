@@ -25,8 +25,8 @@ The repository is organized into modules focusing on specific technologies:
 
 ```text
 SDET-Automation-Training/
-├── Java/         # Core Java exercises, OOP principles, and algorithm solutions
-├── Selenium/       # Selenium WebDriver scripts, Locators, Waits, and WebElement manipulations
+├── Java/                # Core Java exercises, OOP principles, and algorithm solutions
+├── Selenium/            # Selenium WebDriver scripts, Locators, Waits, and WebElement manipulations
 ├── TestNG-Framework/    # (Upcoming) Advanced testing with annotations, grouping, and parallel execution
 ├── Cucumber-BDD/        # (Upcoming) Feature files, Step Definitions, and Runner classes
 └── Jenkins-CICD/        # (Upcoming) Jenkinsfiles and pipeline configurations
