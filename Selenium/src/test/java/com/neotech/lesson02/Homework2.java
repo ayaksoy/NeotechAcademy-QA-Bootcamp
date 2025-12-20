@@ -5,9 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
-import java.nio.channels.Selector;
-
-public class homeWork2 {
+public class Homework2 {
 //    HW2: Facebook sign up:
 //    Open chrome browser
 //    Go to "https://www.facebook.com/"
