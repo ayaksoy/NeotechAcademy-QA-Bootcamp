@@ -27,13 +27,8 @@ public class DropdownDemo extends BaseClass {
 
 
 
-
-
-
-
-
         Thread.sleep(2000);
-//        driver.findElement(By.id("btnLogin")).click();
+     driver.findElement(By.id("btnLogin")).click();
         Thread.sleep(2000);
 
 
